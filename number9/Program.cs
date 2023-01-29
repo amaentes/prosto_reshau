@@ -7,8 +7,8 @@
 Random rnd = new Random();
 int value = rnd.Next(10, 99);
 Console.WriteLine(value); 
-int a = 0;
-int b = 0;
+int a;
+int b;
 a = value / 10; //1 цифра
 b = value % 10; //2 цифра
 if(a > b)
