@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/prosto_reshau/number11/bin/Debug/net6.0/number11
+/Users/alexey/Desktop/prosto_reshau/number11/bin/Debug/net6.0/number11.deps.json
+/Users/alexey/Desktop/prosto_reshau/number11/bin/Debug/net6.0/number11.runtimeconfig.json
+/Users/alexey/Desktop/prosto_reshau/number11/bin/Debug/net6.0/number11.dll
+/Users/alexey/Desktop/prosto_reshau/number11/bin/Debug/net6.0/number11.pdb
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.AssemblyInfo.cs
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.dll
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/refint/number11.dll
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.pdb
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/number11.genruntimeconfig.cache
+/Users/alexey/Desktop/prosto_reshau/number11/obj/Debug/net6.0/ref/number11.dll
