@@ -9,7 +9,7 @@ int b;
 Console.WriteLine("Введите два числа");
 a = Convert.ToInt32(Console.ReadLine());
 b = Convert.ToInt32(Console.ReadLine());
-if (a * a == b | b * b == a)
+if (a * a == b || b * b == a)
 {
   Console.WriteLine("Число является квадратом другого");
 }
