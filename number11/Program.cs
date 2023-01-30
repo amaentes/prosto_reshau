@@ -8,9 +8,7 @@ int value = rnd.Next(100, 1000);
 Console.WriteLine(value); 
 int a;
 int b;
-int c;
 a = value / 100; //1 цифра
-b = value % 100 / 10; //2 цифра
-c = value % 10; // 3 цифра
-Console.WriteLine("Итоговое число {0}{1}", a, c);
-
+b = value % 10; // 3 цифра
+Console.WriteLine(String.Format("Итоговое число {0}{1}", a, b));
+ 
