@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexey/Desktop/prosto_reshau/number09022023/number09022023.csproj": {}
+  },
+  "projects": {
+    "/Users/alexey/Desktop/prosto_reshau/number09022023/number09022023.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexey/Desktop/prosto_reshau/number09022023/number09022023.csproj",
+        "projectName": "number09022023",
+        "projectPath": "/Users/alexey/Desktop/prosto_reshau/number09022023/number09022023.csproj",
+        "packagesPath": "/Users/alexey/.nuget/packages/",
+        "outputPath": "/Users/alexey/Desktop/prosto_reshau/number09022023/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
